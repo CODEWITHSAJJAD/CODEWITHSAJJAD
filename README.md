@@ -1,16 +1,54 @@
-## Hi there 👋
+# **👋 Hi, I’m SAJJAD SHAHID**
+### *BSCS Student | AI/ML Specialist | Computer Vision Developer*
 
-<!--
-**CODEWITHSAJJAD/CODEWITHSAJJAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## **📌 About Me**
+🎓 Pursuing a degree in **Computer Science** with a focus on **Artificial Intelligence**.  
+💡 Passionate about **Machine Learning, Deep Learning, and Computer Vision**.  
+🚀 Love building intelligent systems and solving real-world problems with code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **🛠️ Skills**
+`ML` `CV` `DL` `RL`
+### **Programming Languages**
+`Python` `C` `C++` `C#` `Java` `Sql`
+
+### **AI/ML & Data Science**
+`TensorFlow` `PyTorch` `Keras` `Scikit-Learn` `OpenCV` `Pandas` `NumPy`  
+
+### **DATABASES**
+`SQL Server`  
+
+### **Tools & Platforms**
+`VS Code` `VS` `Eclipse` `Pycharm`  
+
+---
+
+## **🔥 Projects**
+### **AI & Computer Vision**
+- **Facial Emotion Recognition** – CNN + OpenCV real-time detection.   
+- **YOLO Object Detection** – Custom-trained model for real-time tracking.  
+
+### **Software & Apps**
+- **AI Chatbot** – NLP-driven conversational agent (Python + TensorFlow).  
+- **AI ASSITANT** – NLP-driven conversational, DeepLeanrnig base decision making model.  
+---
+
+## **📊 GitHub Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)  
+
+---
+
+## **📫 Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/codewithsajjad/))  
+
+
+---
+
+```python
+while True:
+    keep_coding()
+    innovate()
