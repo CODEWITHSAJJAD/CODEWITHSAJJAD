@@ -11,9 +11,9 @@
 ---
 
 ## **🛠️ Skills**
-`ML` `CV` `DL` `RL`
+`ML` `CV` `DL` `RL` `NLP`
 ### **Programming Languages**
-`Python` `C` `C++` `C#` `Java` `Sql`
+`Python` `Flutter` `C` `C++` `C#` `Java` `Sql`
 
 ### **AI/ML & Data Science**
 `TensorFlow` `PyTorch` `Keras` `Scikit-Learn` `OpenCV` `Pandas` `NumPy`  
